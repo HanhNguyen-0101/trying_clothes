@@ -58,7 +58,7 @@ class ProductItemComponent extends Component {
               className="card text-center"
             >
               <div className="position-relative">
-                <img src={product.imgSrc_jpg} alt={product.name} />
+                <img src={product.imgSrc_jpg} alt={product.name} width="100%" />
                 <Spring
                   from={{ xyzab: [0, 0, 0, 0, 0] }}
                   to={{

@@ -5,7 +5,30 @@
 }
 
 .well .card {
-  background-color: #eff1f1;
+  background-color: white;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  background-color: burlywood;
+}
+.card-title {
+  color: brown;
+}
+a {
+  color: brown;
+}
+a:hover {
+  color: brown;
+  font-weight: bold;
+}
+.nav-pills .nav-item .nav-link {
+  border: 1px solid brown !important;
+}
+button {
+  background: burlywood;
+  border-radius: 15px;
+  color: black;
+  font-weight: 600;
+  padding: 4px;
 }
 
 /* USER PROFILE PAGE */
@@ -149,7 +172,7 @@ hr {
   border-radius: 0 !important;
 }
 .well {
-  background-color: #eff1f1;
+  background-color: white;
   height: 700px;
   width: 100%;
 }
