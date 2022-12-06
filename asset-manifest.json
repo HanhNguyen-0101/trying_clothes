@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trying_clothes/static/css/main.47b928ee.css",
+    "main.js": "/trying_clothes/static/js/main.cd2db649.js",
+    "static/js/787.947744fa.chunk.js": "/trying_clothes/static/js/787.947744fa.chunk.js",
+    "static/media/bodynew.png": "/trying_clothes/static/media/bodynew.8cc915c6d39780c9e65f.png",
+    "static/media/background1.jpg": "/trying_clothes/static/media/background1.e0f725b43df9c1e3e6a1.jpg",
+    "static/media/shoes1.png": "/trying_clothes/static/media/shoes1.ba1ab770f89f0cef262c.png",
+    "static/media/bikini_branew.png": "/trying_clothes/static/media/bikini_branew.fcc20e7908d282dc574c.png",
+    "static/media/bikini_pantsnew.png": "/trying_clothes/static/media/bikini_pantsnew.4bb697022e18fd742c0f.png",
+    "index.html": "/trying_clothes/index.html",
+    "main.47b928ee.css.map": "/trying_clothes/static/css/main.47b928ee.css.map",
+    "main.cd2db649.js.map": "/trying_clothes/static/js/main.cd2db649.js.map",
+    "787.947744fa.chunk.js.map": "/trying_clothes/static/js/787.947744fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47b928ee.css",
+    "static/js/main.cd2db649.js"
+  ]
+}
